@@ -1,3 +1,9 @@
+/*
+Chaining selectors
+Both have shared class selector (avatar), but chaining them
+with another class name allows them to be unique.
+*/
+
 .avatar.proportioned {
   width: 300px;
   height: auto;
