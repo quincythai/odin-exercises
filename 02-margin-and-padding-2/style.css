@@ -38,6 +38,6 @@ button {
   border: 1px solid #eee;
 
   display: block; /* button on own line */
-  margin: auto;
+  margin: auto; /* move button to center of container */
   padding: 8px 24px; /* vertical and horizontal */
 }
