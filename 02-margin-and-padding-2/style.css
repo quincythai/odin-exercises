@@ -1,0 +1,43 @@
+body {
+  background: #eee;
+  font-family: sans-serif;
+}
+
+.card {
+  width: 400px;
+  background: #fff;
+  margin: 16px auto;
+
+  padding: 10px;
+}
+
+.title {
+  background: #e3f4ff;
+
+  padding: 10px;
+  margin-top: 0px;
+  margin-bottom: 8px;
+  font-size: 22px;
+}
+
+.content {
+  background: #e3f4ff;
+
+  padding: 16px 10px; /* 2 values means first top and bot, second is left and right*/
+  margin-bottom: 10px;
+}
+
+.button-container {
+  background: #e3f4ff;
+  padding: 20px;
+  text-align: center; /*align the text */
+}
+
+button {
+  background: white;
+  border: 1px solid #eee;
+
+  display: block; /* button on own line */
+  margin: auto;
+  padding: 8px 24px; /* vertical and horizontal */
+}
