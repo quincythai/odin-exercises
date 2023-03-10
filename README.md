@@ -1,3 +1,3 @@
 # odin-exercises
 
-Update
+All my work files for the odin project exercises.
